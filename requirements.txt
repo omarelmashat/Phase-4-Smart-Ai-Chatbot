@@ -1,0 +1,3 @@
+cohere
+huggingface_hub
+python-dotenv
